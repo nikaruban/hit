@@ -1,1 +1,1 @@
-# hitshop
+# myhitshop.io
